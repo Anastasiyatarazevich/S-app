@@ -14,4 +14,6 @@
     <string name="bonus">Бонусы</string>
     <string name="info">Юридическая информация</string>
     <string name="saving_data">Экономия данных</string>
+
+    <string name="conditions">Условия доступа обновлены</string>
 </resources>
