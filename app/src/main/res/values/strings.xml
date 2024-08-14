@@ -14,4 +14,8 @@
     <string name="bonus">Бонусы</string>
     <string name="info">Юридическая информация</string>
     <string name="saving_data">Экономия данных</string>
+
+    <string name="permission_granted">Разрешение предоставлено</string>
+    <string name="permission_declined">Разрешение не предоставлено. Функциональность ограничена</string>
+    <string name="permission_declined_previously">Разрешение не было предоставлено</string>
 </resources>
