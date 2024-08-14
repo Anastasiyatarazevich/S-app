@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">S-app</string>
+    <string name="greetings">Здравствуйте,</string>
+    <string name="user_name">Имя пользователя</string>
+    <string name="help">Помощь</string>
+    <string name="wallet">Кошелек</string>
+    <string name="bills">Платежи</string>
+    <string name="security">Безопасность</string>
+    <string name="results" translatable="false">4/4</string>
+    <string name="my_actions">Мои действия</string>
+    <string name="support">Поддержка</string>
+    <string name="gifts">Подарки</string>
+    <string name="promotions">Промоакции</string>
+    <string name="bonus">Бонусы</string>
+    <string name="info">Юридическая информация</string>
+    <string name="saving_data">Экономия данных</string>
 </resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="margin_medium">24dp</dimen>
+    <dimen name="margin_large">50dp</dimen>
+
+    <dimen name="padding">15dp</dimen>
+
+    <dimen name="text_size_small">15sp</dimen>
+    <dimen name="text_size_medium">18sp</dimen>
+    <dimen name="text_size_large">24sp</dimen>
+
+    <dimen name="lv_divider">8dp</dimen>
+
+    <dimen name="space">16dp</dimen>
+
+</resources>
