@@ -22,6 +22,5 @@ class MainActivity : AppCompatActivity() {
 
     fun loadUser(id: Int) {
         val user = userRepository.getUserById(id)
-        // Далее мог бы быть код для обновления UI с использованием данных пользователя
     }
 }
